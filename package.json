@@ -1,6 +1,6 @@
 {
 	"name": "resource-search-lens-extension",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "Lens extension providing a VS Code style Ctrl+P search for Kubernetes resources.",
 	"author": "David Alexander",
 	"publisher": "resource-search-lens-extension",
